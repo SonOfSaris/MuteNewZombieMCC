@@ -44,7 +44,7 @@ param(
 Set-StrictMode -Version 2
 $ErrorActionPreference = 'Stop'
 
-$ScriptVersion = '1.0'
+$ScriptVersion = '1.0.0'
 $SoundName = 'new_zombie'
 $MccFolder = 'Halo The Master Chief Collection'
 $BankRelative = 'halo3\fmod\pc\sfx.fsb'
